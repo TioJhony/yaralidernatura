@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body {
+    background-color: #D94C1A;
+    color: #F2BE24;
+    text-shadow: 3px 3px 5px #4b1a08;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2, h3 {
+    color: #F2BE24;
+    margin: auto;
+}
+
+.link {
+    background-color: lightgray;
+    border-radius: 7px;
+    text-shadow: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: 30px;
+    width: 300px;
+    box-shadow: 5px 5px 15px #501c09;
+    padding: 10px 10px 5px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #57523E;
+}
+
+footer {
+    margin-top: 20px;
+    text-shadow: none;
+}
+
+#v-pills-home-tab {
+    color: #F2BE24;
+}
+
+#v-pills-profile-tab {
+    color: #F2BE24;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+#v-pills-messages-tab {
+    color: #F2BE24;
+}
